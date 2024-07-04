@@ -1,1 +1,1 @@
-check --amend --no-edit hahaha
+check --amend --no-edit hahaha asdf
