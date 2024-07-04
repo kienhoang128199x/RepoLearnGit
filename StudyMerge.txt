@@ -1,5 +1,1 @@
-start
-m a 1
-m a 2
-sub a 1
-sub a 2
+check
